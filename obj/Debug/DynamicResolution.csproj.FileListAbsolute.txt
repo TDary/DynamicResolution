@@ -1,0 +1,7 @@
+F:\DynamicResolution\obj\Debug\DynamicResolution.csproj.AssemblyReference.cache
+F:\DynamicResolution\obj\Debug\DynamicResolution.csproj.CoreCompileInputs.cache
+F:\DynamicResolution\bin\Debug\DynamicResolution.exe.config
+F:\DynamicResolution\bin\Debug\DynamicResolution.exe
+F:\DynamicResolution\bin\Debug\DynamicResolution.pdb
+F:\DynamicResolution\obj\Debug\DynamicResolution.exe
+F:\DynamicResolution\obj\Debug\DynamicResolution.pdb
